@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile>
+	<profile>
+		<title>Resu'me</title>
+		<title1>Resu'me Details</title1>
+		<name>Geronimo Monsale</name>
+		<birthday>March 12, 1999</birthday>
+		<age>24</age>
+		<address>Lupac, Boac, Marinduque</address>
+		<phone>09389905884</phone>
+		<email>ronmonsale09@gmail.com</email>
+			<about>This website contains personal information about myself which can be used either business purposes and inquiries. I developed this website to just put all of my information in one place so others could know about myself more conveniently. Particularly my abilities and achievements.</about>
+			<about1>As a networking enthusiast, I possess a deep understanding of various networking concepts, protocols, and technologies. Whether you're seeking advice on setting up a home network, troubleshooting connectivity issues, or exploring advanced networking solutions, I can assist you every step of the way.</about1>
+			<about2>In the preceding section, I highlight my personal information that could assist someone in contacting me, including my email address and phone number for faster communication. This website also includes links to my social media accounts, such as my Instagram, Snapchat, Facebook, and Tiktok accounts.</about2>
+				<skill>This shows my expertise in programming and markup language. It measures the percentage of my skills ranging from 0 to 100 percent.</skill>
+					<resume>It is a formal document that a job applicant creates to itemize their qualifications for a position. A resume is usually accompanied by a personalized personal statement in which the applicant expresses interest in a specific job or company and draws attention to the most relevant details on the resume.</resume>
+					<resume1>I am a highly skilled networking professional with a passion for connecting people, systems, and information. With a deep understanding of networking protocols, architectures, and technologies, I have developed a comprehensive skill set that allows me to design, implement, and optimize robust and secure networks.</resume1>
+						<project1>I used the C# programming language to create a Windows Forms project. This project is one of my proudest accomplishments because it was the first time I had proposed something like it. It is a game in which the user must guess the singer of the song that is currently playing.</project1>
+						<project2>This is a quiz about translating Japanese words into English, created with Windows Forms and the C# programming language. It's a fun game because anime is popular nowadays, and we're also quite familiar with the Japanese language.</project2>
+						<project3>This project was created using Python programming language, with the use of GUI to make the interface look more realistic and fantastic. It is a digital piano that allows the user to learned to play the piano without any difficulties.</project3>
+						<ads1>I used to edit commercials for my future technology company as well. It is some kind of commercial in digital form, which is very convenient nowadays because we live in a modern age where technology is a part of our daily lives.</ads1>
+						<ads2>It's also a commercial in which I promote my clothing line. I edit photos and videos and combine them in one frame to create my final commercial, which also turned out well.</ads2>
+							<service>To provide quality service and accommodate my clients, I must be adaptable and proficient as a service provider. The services offered are aimed at a specific audience. </service>
+							<vid>One of my best skills is photo and video manipulation. It entails the transformation or alteration of a photograph using different tools and techniques to achieve the desired results.</vid>
+							<comsupp>Computer support and services offer IT system diagnostics, troubleshooting, maintenance, and repair. It allows users to look for and receive computer maintenance and management services both locally and remotely.</comsupp>
+							<softdev>Identifying, designing, installing, and testing a software system they created from the bottom up for a firm. It can range from developing internal programs to help businesses become more efficient to developing systems that can be managed to sell in the business sector.</softdev>
+							<datalyst>Data analysts transform raw data into actionable insights and present findings to interested parties through one graphic form. Data analysts play an important role in daily operations across multiple sectors.</datalyst>
+							<andrdev>Creates, programs, tests, and maintains apps and mobile platforms for smartphones, tablets, and laptops.</andrdev>
+							<ux>Turn your apps into something that people enjoy and want to use. Prototyping, wireframing, user flows, mockups, visual design and design software, user research, and usability testing are all part of the process.</ux>
+								<testimonial>  He's a remarkable individual who radiates warmth and kindness wherever they go. They have an infectious sense of humor that brings joy and laughter to any situation.</testimonial>
+								<testimonial1>He's a skilled person who assists me in editing my videos and photos. She's good at photographing and styling, and I'm always impressed by her dedication.</testimonial1>
+								<testimonial2>He's a nice person who always helps me to stay positive and take good photos. I had always admired her for her unique and uplifting attitude.</testimonial2>
+	</profile>
+</Profile>
