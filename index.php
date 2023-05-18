@@ -201,7 +201,7 @@ foreach($file->profile as $rows) {
               </ul>
             </div>
 
-            <h3 class="resume-title">Education</h3>
+            <h3 class="resume-title">Education.</h3>
                 <div class="resume-item">
                   <h4>Elementary</h4>
                   <h5>2006 - 2012</h5>
