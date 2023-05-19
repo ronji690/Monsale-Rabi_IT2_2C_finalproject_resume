@@ -380,7 +380,7 @@ foreach($file->profile as $rows) {
                       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
                     <img src="assets/img/testimonials/kiale.jpg" class="testimonial-img" alt="">
-                    <h3>kiale Rabi</h3>
+                    <h3>kiale M. Rabi</h3>
                     <h4>Ceo &amp; Founder</h4>
                   </div>
                 </div><!-- End testimonial item -->
