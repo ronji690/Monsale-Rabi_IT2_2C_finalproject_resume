@@ -54,7 +54,7 @@ foreach($file->profile as $rows) {
         <h1 class="text-light"><a href="index.php"><?php echo $rows->name; ?></a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://www.snapchat.com/add/ronjimonsale" class="twitter"><i class="bx bxl-snapchat"></i></a>
-          <a href="https://www.facebook.com/psych03path" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.facebook.com/Ronjiii" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="https://www.instagram.com/_ronjicakes/" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="https://www.tiktok.com/@_ronj1" class="tiktok"><i class="bx bxl-tiktok"></i></a>
         </div>
