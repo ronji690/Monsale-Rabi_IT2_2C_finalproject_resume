@@ -263,19 +263,19 @@ foreach($file->profile as $rows) {
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-projects">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Singnoto.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfoliopics.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/Singnoto.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Singnoto"><i class="bx bx-plus"></i></a>
-                <a href="Singnoto.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/portfoliopics.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Singnoto"><i class="bx bx-plus"></i></a>
+                <a href="singnoto.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-projects">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Quizlation.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/pythonquiz.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/Quizlation.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Quizlation"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/pythonquiz.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Quizlation"><i class="bx bx-plus"></i></a>
                 <a href="Quizlation.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -303,9 +303,9 @@ foreach($file->profile as $rows) {
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-ads">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Commercialads.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/Commercial.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/Commercialads.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Commercial Ads"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/Commercial.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Commercial Ads"><i class="bx bx-plus"></i></a>
                 <a href="Commercialads.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -476,7 +476,7 @@ foreach($file->profile as $rows) {
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Thank you! Your message has been sent.</div>
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
