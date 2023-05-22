@@ -98,7 +98,7 @@ foreach($file->profile as $rows) {
 
           <div class="col-lg-8">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/Singnoto.png" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/portfoliopics.jpg" class="img-fluid" alt="">
             </div>
           </div>
 
@@ -106,9 +106,9 @@ foreach($file->profile as $rows) {
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Project Name</strong>: Singnoto?</li>
-                <li><strong>Project Date</strong>: December 15, 2021</li>
-                <li><strong>Project URL</strong>: <a href="https://youtu.be/IXRd4pMUp7c">www.youtube.com</a></li>
+                <li><strong>Project Name</strong>: Mini Groceries Store</li>
+                <li><strong>Project Date</strong>: May 20, 2020</li>
+                <li><strong>Project URL</strong>: <a href="https://drive.google.com/file/d/1fUkGacYLnyBz8mKGZyQZJazv28jVA2L8/view">https://drive.google.com</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
