@@ -283,9 +283,9 @@ foreach($file->profile as $rows) {
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-projects">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Funio.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/funiooooo.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/Funio.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Funio"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/funiooooo.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Funio"><i class="bx bx-plus"></i></a>
                 <a href="Funio.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>

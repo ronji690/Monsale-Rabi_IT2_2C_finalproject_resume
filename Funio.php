@@ -98,7 +98,7 @@ foreach($file->profile as $rows) {
 
           <div class="col-lg-8">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/Funio.png" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/funiooooo.png" class="img-fluid" alt="">
             </div>
           </div>
 
@@ -106,7 +106,7 @@ foreach($file->profile as $rows) {
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Project Name</strong>: Funio</li>
+                <li><strong>Project Name</strong>: Funiooo</li>
                 <li><strong>Project Date</strong>: May 2023</li>
                 <li><strong>Project URL</strong>: <a href="#">www.youtube.com</a></li>
               </ul>
