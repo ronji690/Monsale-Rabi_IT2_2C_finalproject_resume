@@ -226,7 +226,7 @@ foreach($file->profile as $rows) {
                   <p><em>Marinduque National High School</em></p>
                 </div>
                 <div class="resume-item">
-                  <h4>Technolympics Champion</h4>
+                  <h4>Poster Making Champion</h4>
                   <h5>Grade 12</h5>
                   <p><em>Marinduque National High School</em></p>
                 </div>
@@ -303,9 +303,9 @@ foreach($file->profile as $rows) {
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-ads">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Commercial.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/commercial.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/Commercial.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Commercial Ads"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/commercial.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Commercial Ads"><i class="bx bx-plus"></i></a>
                 <a href="Commercialads.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
