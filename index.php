@@ -71,7 +71,7 @@ foreach($file->profile as $rows) {
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1><?php echo $rows->name; ?></h1>
-      <p>I'm <span class="typed" data-typed-items="Networking Enthusiast, Developer, Photographer, Basketball Player"></span></p>
+      <p>I'm <span class="typed" data-typed-items="Networking Enthusiast, Developer, Drummer, Basketball Player"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -148,9 +148,9 @@ foreach($file->profile as $rows) {
             </div>
 
             <div class="progress">
-              <span class="skill">Python <i class="val">60%</i></span>
+              <span class="skill">Python <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -159,16 +159,16 @@ foreach($file->profile as $rows) {
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
             <div class="progress">
-              <span class="skill">PHP <i class="val">60%</i></span>
+              <span class="skill">PHP <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">50%</i></span>
+              <span class="skill">Photoshop <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -293,9 +293,9 @@ foreach($file->profile as $rows) {
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-ads">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Lynxads.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/LYN.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/Lynxads.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lynx Tech Ads"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/LYN.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lynx Tech Ads"><i class="bx bx-plus"></i></a>
                 <a href="Lynxads.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
