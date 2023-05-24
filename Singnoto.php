@@ -107,7 +107,7 @@ foreach($file->profile as $rows) {
               <h3>Project information</h3>
               <ul>
                 <li><strong>Project Name</strong>: Mini Groceries Store</li>
-                <li><strong>Project Date</strong>: May 20, 2020</li>
+                <li><strong>Project Date</strong>: May 21, 2020</li>
                 <li><strong>Project URL</strong>: <a href="https://drive.google.com/file/d/1fUkGacYLnyBz8mKGZyQZJazv28jVA2L8/view">https://drive.google.com</a></li>
               </ul>
             </div>
