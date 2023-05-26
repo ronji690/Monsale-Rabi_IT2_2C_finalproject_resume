@@ -521,7 +521,6 @@ foreach($file->profile as $rows) {
 </body>
 
 </html>
-
 <?php 
 }
 ?>
